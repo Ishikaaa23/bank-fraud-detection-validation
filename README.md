@@ -203,7 +203,3 @@ bank_fraud_detection/
 ```
 
 ---
-
-## Disclaimer
-
-This project is intended for learning and model validation purposes. The results demonstrate the complete fraud detection workflow, including feature engineering, imbalance handling, explainability, and performance evaluation.
